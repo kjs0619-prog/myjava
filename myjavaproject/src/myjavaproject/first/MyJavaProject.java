@@ -6,7 +6,7 @@ public class MyJavaProject {
 
 //		System.out.println("얀녕하세요");
 //		System.out.println("얀녕하세요2");
-		System.out.println("제이름은 000입니");
+		System.out.println("제이름은 000입니다");
 	}
 
 }
