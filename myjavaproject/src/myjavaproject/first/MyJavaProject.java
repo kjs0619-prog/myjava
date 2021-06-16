@@ -4,9 +4,9 @@ public class MyJavaProject {
 
 	public static void main(String[] args) {
 
-//		System.out.println("¾á³çÇÏ¼¼¿ä");
-//		System.out.println("¾á³çÇÏ¼¼¿ä2");
-		System.out.println("Á¦ÀÌ¸§Àº 000ÀÔ´Ï´Ù.");
+//		System.out.println("ì–€ë…•í•˜ì„¸ìš”");
+//		System.out.println("ì–€ë…•í•˜ì„¸ìš”2");
+		System.out.println("ì œì´ë¦„ì€ 000ì…ë‹ˆ");
 	}
 
 }
